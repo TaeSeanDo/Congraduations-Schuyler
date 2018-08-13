@@ -1,0 +1,23 @@
+html {
+  border: 10px solid maroon;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 35pt;
+}
+
+h2 {
+  font-size: 18pt;
+}
+
+button {
+  font-size: 18pt;
+  font-family: "Times New Roman";
+  background-color: gold;
+  border-color: maroon;
+  border-width: medium;
+}
